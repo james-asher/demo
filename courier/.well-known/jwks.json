@@ -1,0 +1,18 @@
+{
+    "keys": [
+      {
+        "e": "AQAB",
+        "n": "--something--",
+        "kty": "RSA",
+        "kid": "sig-rs-0",
+        "use": "sig"
+      },
+      {
+        "e": "AQAB",
+        "n": "--something--",
+        "kty": "RSA",
+        "kid": "enc-rs-0",
+        "use": "enc"
+      }
+    ]
+  }
