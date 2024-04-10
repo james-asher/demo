@@ -6,6 +6,13 @@
             "e": "AQAB",
             "kid": "sig-rs-0",
             "use": "sig"
+        },
+        {
+            "e": "AQAB",
+            "n": "xLW-Sc5hoSy7jyIKWDEQC3E3d0kSoP2cxXCO_Ix7HlCZYntRM62yVljDQLwA1kaIVxhtx3TeA_NozxeNmSftvOou0qCbBnU8pnmSIMrMfLDuvYpqwwaZczF8iWYfsVp1IsZJd6DwI6Un2BJl16u7V-VK41Tdx9MRUE02xDCoYZk",
+            "kty": "RSA",
+            "kid": "sig-rs-1",
+            "use": "sig"
         }
     ]
 }
